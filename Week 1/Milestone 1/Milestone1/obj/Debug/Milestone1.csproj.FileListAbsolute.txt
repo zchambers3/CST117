@@ -1,0 +1,11 @@
+C:\Users\zcham\source\repos\Milestone1\bin\Debug\Milestone1.exe.config
+C:\Users\zcham\source\repos\Milestone1\bin\Debug\Milestone1.exe
+C:\Users\zcham\source\repos\Milestone1\bin\Debug\Milestone1.pdb
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.csprojAssemblyReference.cache
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.InventoryForm.resources
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.Form2.resources
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.Properties.Resources.resources
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.csproj.GenerateResource.cache
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.csproj.CoreCompileInputs.cache
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.exe
+C:\Users\zcham\source\repos\Milestone1\obj\Debug\Milestone1.pdb
