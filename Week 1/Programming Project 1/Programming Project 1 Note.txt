@@ -1,0 +1,5 @@
+Professor,
+
+Updated Exercise 3 to show formatting of all numeric output to exactly three decimal places.
+
+Zack
