@@ -1,0 +1,20 @@
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\bin\Debug\CST 117 Week 1 Assignment 3 and Beyond.exe.config
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\bin\Debug\CST 117 Week 1 Assignment 3 and Beyond.exe
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\bin\Debug\CST 117 Week 1 Assignment 3 and Beyond.pdb
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.csprojAssemblyReference.cache
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST_117_Week_1_Assignment_3_and_Beyond.Properties.Resources.resources
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.csproj.GenerateResource.cache
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.csproj.CoreCompileInputs.cache
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.exe
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.pdb
+C:\Users\Chad\source\repos\CST 117 Week 1 Assignment 3 and Beyond\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST_117_Week_1_Assignment_3_and_Beyond.Form1.resources
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\bin\Debug\CST 117 Week 1 Assignment 3 and Beyond.exe.config
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\bin\Debug\CST 117 Week 1 Assignment 3 and Beyond.exe
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\bin\Debug\CST 117 Week 1 Assignment 3 and Beyond.pdb
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.csprojAssemblyReference.cache
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST_117_Week_1_Assignment_3_and_Beyond.Form1.resources
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST_117_Week_1_Assignment_3_and_Beyond.Properties.Resources.resources
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.csproj.GenerateResource.cache
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.csproj.CoreCompileInputs.cache
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.exe
+C:\Users\zcham\source\repos\CST 117 Week 1 Assignment 3 and Beyond\obj\Debug\CST 117 Week 1 Assignment 3 and Beyond.pdb
