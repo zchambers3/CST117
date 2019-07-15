@@ -1,0 +1,10 @@
+Professor,
+
+Exercise 1 and 2 are in folder named ProgrammingExercise-2.
+
+I was having a real difficult time sitting up Atlassian.  I couldn't figure out how to upload/push and create folders.  I am creating
+a GitHub for the class as well.
+
+GitHub can be accessed at: https://github.com/zchambers3/CST117
+
+Zack
