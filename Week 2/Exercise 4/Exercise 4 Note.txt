@@ -1,0 +1,15 @@
+Professor,
+
+You will find the Exercise 4 in this folder along with 3 screenshots that show the program displaying its functions correctly.
+
+Please note that you can find this project at:
+
+https://github.com/zchambers3/CST117
+
+&
+
+https://zchambers3@bitbucket.org/zchambers3/cst117.git
+
+Thank you,
+
+Zack
