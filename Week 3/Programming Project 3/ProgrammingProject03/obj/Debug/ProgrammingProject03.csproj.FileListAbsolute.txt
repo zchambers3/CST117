@@ -1,0 +1,10 @@
+C:\Users\zcham\source\repos\ProgrammingProject03\bin\Debug\ProgrammingProject03.exe.config
+C:\Users\zcham\source\repos\ProgrammingProject03\bin\Debug\ProgrammingProject03.exe
+C:\Users\zcham\source\repos\ProgrammingProject03\bin\Debug\ProgrammingProject03.pdb
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.csprojAssemblyReference.cache
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.StatsForm.resources
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.Properties.Resources.resources
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.csproj.GenerateResource.cache
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.csproj.CoreCompileInputs.cache
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.exe
+C:\Users\zcham\source\repos\ProgrammingProject03\obj\Debug\ProgrammingProject03.pdb

@@ -1,0 +1,4 @@
+First word alphabetically: all
+Last word alphabetically: write
+Longest word: alphabetically at 14 characters.
+Word with the most vowels: application with 5 vowels
