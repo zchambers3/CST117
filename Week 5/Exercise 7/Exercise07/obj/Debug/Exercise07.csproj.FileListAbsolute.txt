@@ -1,0 +1,7 @@
+C:\Users\zcham\source\repos\Ray-Ketcham-CST-117-Exercise-7\obj\Debug\Ray_Ketcham_CST_117_Exercise_7.Properties.Resources.resources
+C:\Users\zcham\source\repos\Ray-Ketcham-CST-117-Exercise-7\obj\Debug\Ray-Ketcham-CST-117-Exercise-7.csproj.GenerateResource.cache
+C:\Users\zcham\source\repos\Ray-Ketcham-CST-117-Exercise-7\obj\Debug\Ray-Ketcham-CST-117-Exercise-7.csproj.CoreCompileInputs.cache
+C:\Users\zcham\source\repos\Exercise07\obj\Debug\Exercise07.Properties.Resources.resources
+C:\Users\zcham\source\repos\Exercise07\obj\Debug\Exercise07.csproj.GenerateResource.cache
+C:\Users\zcham\source\repos\Exercise07\obj\Debug\Exercise07.csproj.CoreCompileInputs.cache
+C:\Users\zcham\source\repos\Exercise07\obj\Debug\Exercise07.csprojAssemblyReference.cache

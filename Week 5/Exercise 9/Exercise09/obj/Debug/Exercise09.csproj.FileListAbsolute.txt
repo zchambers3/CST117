@@ -1,0 +1,3 @@
+C:\Users\zcham\source\repos\Exercise09\obj\Debug\Exercise09.Properties.Resources.resources
+C:\Users\zcham\source\repos\Exercise09\obj\Debug\Exercise09.csproj.GenerateResource.cache
+C:\Users\zcham\source\repos\Exercise09\obj\Debug\Exercise09.csproj.CoreCompileInputs.cache
