@@ -1,0 +1,10 @@
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\bin\Debug\CST-117_Milestone_3.exe.config
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\bin\Debug\CST-117_Milestone_3.exe
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\bin\Debug\CST-117_Milestone_3.pdb
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST-117_Milestone_3.csprojAssemblyReference.cache
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST_117_Milestone_3.MainForm.resources
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST_117_Milestone_3.Properties.Resources.resources
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST-117_Milestone_3.csproj.GenerateResource.cache
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST-117_Milestone_3.csproj.CoreCompileInputs.cache
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST-117_Milestone_3.exe
+C:\Users\gbdavisj\source\repos\CST-117_Milestone_3\CST-117_Milestone_3\obj\Debug\CST-117_Milestone_3.pdb

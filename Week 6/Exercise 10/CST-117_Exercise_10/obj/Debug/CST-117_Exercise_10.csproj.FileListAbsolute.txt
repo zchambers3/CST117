@@ -1,0 +1,7 @@
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\bin\Debug\CST-117_Exercise_10.exe.config
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\bin\Debug\CST-117_Exercise_10.exe
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\bin\Debug\CST-117_Exercise_10.pdb
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\obj\Debug\CST-117_Exercise_10.csprojAssemblyReference.cache
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\obj\Debug\CST-117_Exercise_10.csproj.CoreCompileInputs.cache
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\obj\Debug\CST-117_Exercise_10.exe
+C:\Users\gbdavisj\source\repos\CST-117_Exercise_10\CST-117_Exercise_10\obj\Debug\CST-117_Exercise_10.pdb

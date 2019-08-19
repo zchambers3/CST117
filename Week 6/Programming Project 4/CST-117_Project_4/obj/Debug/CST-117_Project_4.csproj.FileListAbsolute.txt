@@ -1,0 +1,10 @@
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\bin\Debug\CST-117_Project_4.exe.config
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\bin\Debug\CST-117_Project_4.exe
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\bin\Debug\CST-117_Project_4.pdb
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST-117_Project_4.csprojAssemblyReference.cache
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST_117_Project_4.MainForm.resources
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST_117_Project_4.Properties.Resources.resources
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST-117_Project_4.csproj.GenerateResource.cache
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST-117_Project_4.csproj.CoreCompileInputs.cache
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST-117_Project_4.exe
+C:\Users\gbdavisj\source\repos\CST-117_Project_4\CST-117_Project_4\obj\Debug\CST-117_Project_4.pdb
